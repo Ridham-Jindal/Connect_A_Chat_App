@@ -1,0 +1,16 @@
+.container {
+    position: relative;
+    max-width: s;
+    font-size: xx-large;
+    background: #4fb497;
+    padding: 40px 30px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+    perspective: 2700px;
+    width: 25%;
+    text-align: center;
+    /* justify-content: left; */
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+}
+
